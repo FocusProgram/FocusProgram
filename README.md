@@ -6,11 +6,13 @@
 
 - 博主是一位互联网行业从业者,主要从事于后台开发；
 
-- 主要用于一些学习过程中的技术分享和工作中的经验总结；
+- 主要用于一些学习过程中的技术分享和工作中的经验总结。
 
 ### Follow
 
 ---
+
+- [个人技术博客](http://blog.focusprogram.top)
 
 - [Github开源地址](https://github.com/FocusProgram/) 
 
@@ -19,8 +21,6 @@
 - [Gitee开源地址](https://gitee.com/FocusProgram/) 
 
 - [CSDN开源地址](https://blog.csdn.net/qq_41112063) 
-
-- [个人技术博客](https://blog.focusprogram.top)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FocusProgram&layout=compact&theme=dark)](https://github.com/FocusProgram)
 
