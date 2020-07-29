@@ -1,12 +1,11 @@
 ### Hi there 👋\
 
 
-[![Mr.Kong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FocusProgram&theme=dark&show_icons=true)](https://github.com/FocusProgram) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FocusProgram&layout=compact&theme=dark)](https://github.com/FocusProgram)
 
-[![springcloud-elk](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-elk&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-elk)
+[![Mr.Kong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FocusProgram&theme=dark&show_icons=true)](https://github.com/FocusProgram) 
 
+[![springcloud-elk](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-elk&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-elk)
 [![hexo-blog](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=hexo-blog&show_owner=true&theme=dark)](https://github.com/FocusProgram/hexo-blog)
 
 
