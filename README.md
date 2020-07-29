@@ -44,6 +44,8 @@
 [//]: # [![tengxuetang](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=tengxuetang&show_owner=true&theme=dark)](https://github.com/FocusProgram/tengxuetang )
 [![tensquare](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=tensquare&show_owner=true&theme=dark)](https://github.com/FocusProgram/tensquare)
 
+[//]: # (哈哈我是注释，不会在浏览器中显示。)
+
 <!--
 **FocusProgram/FocusProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
