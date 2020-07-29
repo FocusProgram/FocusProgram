@@ -41,7 +41,7 @@
 [![springcloud-eureka](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-eureka&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-eureka)
 [![springcloud-apollo](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-apollo&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-apollo)
 
-[![tengxuetang](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=tengxuetang &show_owner=true&theme=dark)](https://github.com/FocusProgram/tengxuetang )
+[![tengxuetang](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=tengxuetang&show_owner=true&theme=dark)](https://github.com/FocusProgram/tengxuetang )
 [![tensquare](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=tensquare&show_owner=true&theme=dark)](https://github.com/FocusProgram/tensquare)
 
 <!--
