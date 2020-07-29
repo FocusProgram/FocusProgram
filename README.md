@@ -24,6 +24,8 @@
 
 ### Github
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FocusProgram&layout=compact&theme=dark)](https://github.com/FocusProgram)
 
 [![Mr.Kong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FocusProgram&theme=dark&show_icons=true)](https://github.com/FocusProgram) 
