@@ -30,6 +30,8 @@
 
 [![Mr.Kong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FocusProgram&theme=dark&show_icons=true)](https://github.com/FocusProgram) 
 
+[![tensquare](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=tensquare&show_owner=true&theme=dark)](https://github.com/FocusProgram/tensquare)
+
 [![springcloud-elk](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-elk&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-elk)
 [![hexo-blog](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=hexo-blog&show_owner=true&theme=dark)](https://github.com/FocusProgram/hexo-blog)
 
@@ -65,8 +67,6 @@
 
 [![springcloud-eureka](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-eureka&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-eureka)
 [![springcloud-apollo](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-apollo&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-apollo)
-
-[![tensquare](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=tensquare&show_owner=true&theme=dark)](https://github.com/FocusProgram/tensquare)
 
 <!--
 **FocusProgram/FocusProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
