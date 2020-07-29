@@ -1,7 +1,12 @@
 ### Hi there 👋\
 
 
-[![springcloud-elk](https://github-readme-stats.vercel.app/api?username=FocusProgram&theme=dark)](https://github.com/FocusProgram/springcloud-elk)
+[![Mr.Kong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FocusProgram&theme=dark&show_icons=true)](https://github.com/FocusProgram)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FocusProgram&layout=compact)](https://github.com/FocusProgram)
+
+[![springcloud-elk](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-elk&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-elk)
+
 
 <!--
 **FocusProgram/FocusProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
