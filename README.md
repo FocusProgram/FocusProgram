@@ -30,13 +30,11 @@
 
 [![Mr.Kong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FocusProgram&theme=dark&show_icons=true)](https://github.com/FocusProgram) 
 
+[![focusprogram.github.io](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=focusprogram.github.io&show_owner=true&theme=dark)](https://github.com/FocusProgram/focusprogram.github.io)
 [![tensquare](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=tensquare&show_owner=true&theme=dark)](https://github.com/FocusProgram/tensquare)
 
 [![springcloud-elk](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-elk&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-elk)
 [![hexo-blog](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=hexo-blog&show_owner=true&theme=dark)](https://github.com/FocusProgram/hexo-blog)
-
-[![focusprogram.github.io](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=focusprogram.github.io&show_owner=true&theme=dark)](https://github.com/FocusProgram/focusprogram.github.io)
-[![proxy-config](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=proxy-config&show_owner=true&theme=dark)](https://github.com/FocusProgram/proxy-config)
 
 [![company-website](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=company-website&show_owner=true&theme=dark)](https://github.com/FocusProgram/company-website)
 [![springcloud-zipkin](https://github-readme-stats.vercel.app/api/pin/?username=FocusProgram&repo=springcloud-zipkin&show_owner=true&theme=dark)](https://github.com/FocusProgram/springcloud-zipkin)
