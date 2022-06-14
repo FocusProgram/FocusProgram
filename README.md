@@ -2,7 +2,7 @@
 
 ---
 
-- 后端码农，技术栈：Java、Python、Devops
+后端码农，技术栈：Java、Python、Devops
 
 ### Follow
 
